@@ -15,5 +15,5 @@ app.run(
     port=int(os.getenv('PORT',8080)),
     host=os.getenv('IP','0.0.0.0'),
     use_reloader = True,
-    debug = True,
+    debug = True, #Autorun
     )
