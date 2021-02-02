@@ -5,7 +5,7 @@ app=Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route('/')
 def homepage():
-    artist=["Arijit Singh","Ed Sheeran","Ariana Grande"]
+    artist=["Arijit Singh","Ed Sheeran","Ariana Grande","Jubin Nautiyal","Darshan Raval"]
     return render_template(
         "index.html",
          len= len(artist),

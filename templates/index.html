@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 
-    <head>
-        <title>The Music directory</title>
-        <link rel="stylesheet" href="{{ url_for( 'static', filename='style1.css' )}}" type="text/css" />
-    </head>
+<head>
+    <title>The Music directory</title>
+    <link rel="stylesheet" href="{{ url_for( 'static', filename='style.css' )}}" type="text/css" /> </head>
 
-    <body>
-        <ol>
-
-        </ol>
-    </body>
+<body>
+    <h1>Neel's top three Fav artist</h1>
+    {%for i in range(0,len)%}
+    <button class=a>{{artist[i]}}</button> {%endfor%} </body>
 
 </html>
