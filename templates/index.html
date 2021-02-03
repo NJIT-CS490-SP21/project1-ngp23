@@ -6,11 +6,11 @@
     <link rel="stylesheet" href="{{ url_for( 'static', filename='style.css' )}}" type="text/css" /> </head>
 
 <body>
-    <h1>Neel's top {{len}} Fav artist</h1>
-    {%for i in range (0,len)%}
+    <h1>Neel's top {{length}} Fav artist</h1>
+    {%for i in artists%}
 
-    <button class=a>{{a[i]}}</button> {%endfor%} </body>
+    <button class=a>{{i}}</button> {%endfor%} </body>
 <!--This is coment to test-->
-<p class=b><br>The lucky artist is <button class=a>{{a[rand]}}</button></p>
+<p class=b><br>The lucky artist is <button class=a>{{key[randNum]}}</button></p>
 
 </html>

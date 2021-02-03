@@ -15,10 +15,11 @@ def homepage():
     rand = random.randint(0,len(artist))
     return render_template(
         "index.html",
-         len = len(artist),
-         artist = artist,
+         length = len(artist),
+         artists = artist,
          a=a,
-         rand=rand
+         randNum=rand,
+         key=artist.keys()
         )
 app.run(
     port=int(os.getenv('PORT',8080)),
