@@ -8,9 +8,14 @@
 <body>
     <h1>Neel's top {{length}} Fav artist</h1>
     {%for i in artists%}
+    <button class=a>{{i}}</button> {%endfor%}
+</body>
 
-    <button class=a>{{i}}</button> {%endfor%} </body>
-<!--This is coment to test-->
-<p class=b><br>The lucky artist is <button class=a>{{key[randNum]}}</button></p>
+<body>
+    <!--This is coment to test-->
+    <p class=b><br>The lucky artist is <button onlick={{randValue}} class=a>{{randkey}}</button></p>
+
+</body>
+
 
 </html>

@@ -5,7 +5,7 @@ app=Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route('/')
 def homepage():
-    a=["Arijit Singh","Ed Sheeran","Ariana Grande","Jubin Nautiyal","Darshan Raval"]
+   
     artist={'Arijit Singh':'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw',
         'Ed Sheeran':'https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V',
         'Ariana Grande':'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR',
@@ -13,13 +13,14 @@ def homepage():
         'Darshan Raval':'https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS'
         }
     rand = random.randint(0,len(artist))
+    randk=random.choice(list(artist.keys()))
     return render_template(
         "index.html",
          length = len(artist),
          artists = artist,
-         a=a,
          randNum=rand,
-         key=artist.keys()
+         randkey=randk,
+         randValue=artist.get(randk)
         )
 app.run(
     port=int(os.getenv('PORT',8080)),
