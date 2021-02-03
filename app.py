@@ -6,21 +6,26 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route('/')
 def homepage():
    
-    artist={'Arijit Singh':"https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw",
-        'Ed Sheeran':"https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V",
-        'Ariana Grande':"https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR",
-        'Jubin Nautiyal':"https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa",
-        'Darshan Raval':"https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
+   # artist={'Arijit Singh':"4YRxDV8wJFPHPTeXepOstw",
+#        'Ed Sheeran':"6eUKZXaKkcviH0Ku9w2n3V",
+ #       'Ariana Grande':"66CXWjxzNUsdJxJ2JdwvnR",
+  #      'Jubin Nautiyal':"1tqysapcCh1lWEAc9dIFpa",
+   #     'Darshan Raval':"2GoeZ0qOTt6kjsWW4eA6LS"
+    #    }
+    artist=["4YRxDV8wJFPHPTeXepOstw",
+    "6eUKZXaKkcviH0Ku9w2n3V",
+    "66CXWjxzNUsdJxJ2JdwvnR",
+    "1tqysapcCh1lWEAc9dIFpa",
+    "2GoeZ0qOTt6kjsWW4eA6LS"]
     rand = random.randint(0,len(artist))
-    randk=random.choice(list(artist.keys()))
+    #randk=random.choice(list(artist.keys()))
     return render_template(
         "index.html",
          length = len(artist),
          artists = artist,
          randNum=rand,
-         randkey=randk,
-         randValue=artist.get(randk)
+        # randkey=randk,
+        # randValue=artist.get(randk)
         )
 app.run(
     port=int(os.getenv('PORT',8080)),

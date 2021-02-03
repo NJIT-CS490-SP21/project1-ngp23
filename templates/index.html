@@ -8,13 +8,15 @@
 <body>
     <h1>Neel's top {{length}} Fav artist</h1>
     {%for i in artists%}
-    <button class=a>{{i}}</button> {%endfor%}
+    <div class=a>
+        <a href="{{artists.get(i)}}" title="link to artist profile"><button>{{i}}</button> </a>
+    </div>
+
+    {%endfor%}
 </body>
 
 <body>
     <!--This is coment to test-->
-
-
     <div class=a>
         <p> Random artist we have picked is
             <a href="{{randValue}}" title="link to artist profile"><button>{{randkey}}</button> </a>
