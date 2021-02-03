@@ -7,5 +7,7 @@ body {
 }
 
 .b {
-    background-color: hotpink;
+    font-family: Bold;
+    font-size: 20px;
+    color: blue;
 }
