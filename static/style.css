@@ -1,18 +1,56 @@
-body {
-    background-color: #af7aff
-}
+ body {
+     -webkit-animation: colorchange 20s infinite;
+     animation: colorchange 20s infinite;
+ }
 
-.a {
-    font-family: Arial;
-}
+ @-webkit-keyframes colorchange {
+     0% {
+         background: #8ebf42;
+     }
+     25% {
+         background: #e6ebef;
+     }
+     50% {
+         background: #1c87c9;
+     }
+     75% {
+         background: #095484;
+     }
+     100% {
+         background: #d0e2bc;
+     }
+ }
 
-.b {
-    font-family: Bold;
-    font-size: 20px;
-    color: blue;
-}
+ @keyframes colorchange {
+     0% {
+         background: #8ebf42;
+     }
+     25% {
+         background: #e6ebef;
+     }
+     50% {
+         background: #1c87c9;
+     }
+     75% {
+         background: #095484;
+     }
+     100% {
+         background: #d0e2bc;
+     }
+ }
 
-.imageSize {
-    width: 100px;
-    height: 100px;
-}
+ .a {
+     font-family: Arial;
+ }
+
+ .b {
+     font-family: Bold;
+     font-size: 20px;
+     color: blue;
+ }
+
+ .imageSize {
+     width: 100px;
+     height: 100px;
+ }
+ 

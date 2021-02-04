@@ -7,14 +7,18 @@
 
 <body>
     <h1>Neel's top Fav artist song</h1>
-    <!--<a href={{data}}> Link to the song</a>-->
-    <p>{{dataName}}</p>
 
-    <p>{{artistName}}</p>
+    <p>Song Name is : {{dataName}}</p>
+    {%for i in artistName%}
+    <p>Artist Name is : {{i}}</p>
+    {%endfor%}
+    <img class=imageSize src={{imageUrl}}> {%if preview_url != None %}
 
-    <img class=imageSize src={{imageUrl}}> {%if preview_url!="None"%}
-    <p><iframe src="{{preview_url}}"><br>Preview</iframe></p>
-    {%else%}
+    <p> <audio controls>
+      <source src="{{preview_url}}" type="audio/ogg">
+      <source src="{{preview_url}}" type="audio/mpeg">
+      Preview
+    </audio> </p>{%else%}
     <p>No Preview to show</p>
     {%endif%}
 </body>

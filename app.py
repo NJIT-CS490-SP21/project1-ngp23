@@ -7,7 +7,7 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 @app.route('/')
 def homepage():
 
-    artist=["4YRxDV8wJFPHPTeXepOstw",
+    artist=["4xRYI6VqpkE3UwrDrAZL8L",
     "6eUKZXaKkcviH0Ku9w2n3V",
     "66CXWjxzNUsdJxJ2JdwvnR",
     "1tqysapcCh1lWEAc9dIFpa",
@@ -32,15 +32,14 @@ def homepage():
     data = requests.get(BASE_URL , headers=headers)
     data = data.json()
     json_formatted_str = json.dumps(data, indent=2)
-    f=open("data.txt",'w+')
-    f.write(json_formatted_str)
     
-    #data = (data['tracks'][rand]['artists'][0]['external_urls']['spotify'])
     length = len(data['tracks'])
     randArtist= random.randint(0,length-1)
     name = data['tracks'][randArtist]['name']
-    aName = data['tracks'][randArtist]['album']['artists'][0]['name']
-    
+    aName=[]
+    for i in range(0,len(data['tracks'][randArtist]['album']['artists'])):
+        aName.append(data['tracks'][randArtist]['album']['artists'][i]['name'])
+         
     imageUrl = data['tracks'][randArtist]['album']['images'][0]['url']
     
     preview_url= data['tracks'][randArtist]['preview_url']
