@@ -38,13 +38,19 @@ def homepage():
     #data = (data['tracks'][rand]['artists'][0]['external_urls']['spotify'])
     length = len(data['tracks'])
     randArtist= random.randint(0,length-1)
-    data = data['tracks'][randArtist]['name']
+    name = data['tracks'][randArtist]['name']
+    aName = [len(data['tracks'][randArtist]['album']['artists'])]
+ #   for i in range(0,len(data['tracks'][randArtist]['album']['artists'])):
+    #aName[i] = data['tracks'][randArtist]['album']['artists'][i]['name']
+    aName = data['tracks'][randArtist]['album']['artists'][0]['name']
+#    print(aName)
+    
+    imageUrl = data['tracks'][randArtist]['album']['images'][0]['url']
     return render_template(
         "index.html",
-         #length = len(data['tracks']),
-         artists = artist,
-         randNum=rand,
-        data = data
+        dataName = name,
+        artistName = aName,
+        imageUrl = imageUrl
         )
 app.run(
     port=int(os.getenv('PORT',8080)),

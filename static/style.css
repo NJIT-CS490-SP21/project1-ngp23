@@ -11,3 +11,8 @@ body {
     font-size: 20px;
     color: blue;
 }
+
+.imageSize {
+    width: 100px;
+    height: 100px;
+}
