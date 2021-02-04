@@ -8,9 +8,9 @@
 <body>
     <h1>Neel's top Fav artist song</h1>
 
-    <p>Song Name is : {{dataName}}</p>
+    <p class=a>Song Name is : {{dataName}}</p>
     {%for i in artistName%}
-    <p>Artist Name is : {{i}}</p>
+    <p class=a>Artist Name is : {{i}}</p>
     {%endfor%}
     <img class=imageSize src={{imageUrl}}> {%if preview_url != None %}
 
@@ -19,7 +19,7 @@
       <source src="{{preview_url}}" type="audio/mpeg">
       Preview
     </audio> </p>{%else%}
-    <p>No Preview to show</p>
+    <p class=a>No Preview to show</p>
     {%endif%}
 </body>
 

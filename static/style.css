@@ -1,56 +1,54 @@
  body {
-     -webkit-animation: colorchange 20s infinite;
-     animation: colorchange 20s infinite;
+  -webkit-animation: colorchange 20s infinite;
+  animation: colorchange 20s infinite;
+  text-align: center;
  }
 
  @-webkit-keyframes colorchange {
-     0% {
-         background: #8ebf42;
-     }
-     25% {
-         background: #e6ebef;
-     }
-     50% {
-         background: #1c87c9;
-     }
-     75% {
-         background: #095484;
-     }
-     100% {
-         background: #d0e2bc;
-     }
+  0% {
+   background: #C71585;
+  }
+  25% {
+   background: #DB7093;
+  }
+  50% {
+   background: #FF1493;
+  }
+  75% {
+   background: #FF69B4;
+  }
+  100% {
+   background: #FFB6C1;
+  }
  }
 
  @keyframes colorchange {
-     0% {
-         background: #8ebf42;
-     }
-     25% {
-         background: #e6ebef;
-     }
-     50% {
-         background: #1c87c9;
-     }
-     75% {
-         background: #095484;
-     }
-     100% {
-         background: #d0e2bc;
-     }
+  0% {
+   background: #00FFFF;
+  }
+  25% {
+   background: #E0FFFF;
+  }
+  50% {
+   background: #7FFFD4;
+  }
+  75% {
+   background: #48D1CC;
+  }
+  100% {
+   background: #00CED1;
+  }
  }
 
  .a {
-     font-family: Arial;
+  font-family: Arial;
+  font-size: 25px;
  }
 
- .b {
-     font-family: Bold;
-     font-size: 20px;
-     color: blue;
- }
+
 
  .imageSize {
-     width: 100px;
-     height: 100px;
+  width: 200px;
+  height: 200px;
  }
  
