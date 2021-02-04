@@ -6,24 +6,11 @@
     <link rel="stylesheet" href="{{ url_for( 'static', filename='style.css' )}}" type="text/css" /> </head>
 
 <body>
-    <h1>Neel's top {{length}} Fav artist</h1>
-    {%for i in artists%}
-    <div class=a>
-        <a href="{{artists.get(i)}}" title="link to artist profile"><button>{{i}}</button> </a>
-    </div>
-
-    {%endfor%}
+    <h1>Neel's top Fav artist song</h1>
+    <p>{{length}}</p>
 </body>
 
-<body>
-    <!--This is coment to test-->
-    <div class=a>
-        <p> Random artist we have picked is
-            <a href="{{randValue}}" title="link to artist profile"><button>{{randkey}}</button> </a>
-        </p>
-    </div>
 
-</body>
 
 
 </html>
