@@ -12,8 +12,11 @@
 
     <p>{{artistName}}</p>
 
-    <img class=imageSize src={{imageUrl}}>
-    <a href="{{preview_url}}"><br>Preview</a>
+    <img class=imageSize src={{imageUrl}}> {%if preview_url!="None"%}
+    <p><iframe src="{{preview_url}}"><br>Preview</iframe></p>
+    {%else%}
+    <p>No Preview to show</p>
+    {%endif%}
 </body>
 
 

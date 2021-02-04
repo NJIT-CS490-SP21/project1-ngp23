@@ -6,85 +6,151 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
+          "spotify": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
         },
-        "href": "https://api.spotify.com/v1/albums/2Svje8vKEM4VCKxoRyAvA4",
-        "id": "2Svje8vKEM4VCKxoRyAvA4",
+        "href": "https://api.spotify.com/v1/albums/3euz4vS7ezKGnNSwgyvKcd",
+        "id": "3euz4vS7ezKGnNSwgyvKcd",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273eaa6b4bfb5954ee5a5a8ce9e",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02eaa6b4bfb5954ee5a5a8ce9e",
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851eaa6b4bfb5954ee5a5a8ce9e",
+            "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
             "width": 64
           }
         ],
-        "name": "Chhichhore",
-        "release_date": "2019-08-31",
+        "name": "Positions",
+        "release_date": "2020-10-30",
         "release_date_precision": "day",
-        "total_tracks": 7,
+        "total_tracks": 14,
         "type": "album",
-        "uri": "spotify:album:2Svje8vKEM4VCKxoRyAvA4"
+        "uri": "spotify:album:3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 280281,
-      "explicit": false,
+      "duration_ms": 172324,
+      "explicit": true,
       "external_ids": {
-        "isrc": "INS181904666"
+        "isrc": "USUM72019412"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20"
+        "spotify": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
       },
-      "href": "https://api.spotify.com/v1/tracks/5O932cZmzOZGOGZz9RHx20",
-      "id": "5O932cZmzOZGOGZz9RHx20",
+      "href": "https://api.spotify.com/v1/tracks/35mvY5S1H3J2QZyna3TFe0",
+      "id": "35mvY5S1H3J2QZyna3TFe0",
       "is_local": false,
       "is_playable": true,
-      "name": "Khairiyat",
-      "popularity": 71,
-      "preview_url": "https://p.scdn.co/mp3-preview/675f140e389a20b604070b22ea03d1bfefa70200?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "positions",
+      "popularity": 94,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+            },
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "type": "artist",
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+        },
+        "href": "https://api.spotify.com/v1/albums/3euz4vS7ezKGnNSwgyvKcd",
+        "id": "3euz4vS7ezKGnNSwgyvKcd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
+            "width": 64
+          }
+        ],
+        "name": "Positions",
+        "release_date": "2020-10-30",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 173710,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "USUM72020423"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Im9k8u9iIzKMrmV7BWtlF",
+      "id": "6Im9k8u9iIzKMrmV7BWtlF",
+      "is_local": false,
+      "is_playable": true,
+      "name": "34+35",
+      "popularity": 92,
+      "preview_url": null,
       "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:5O932cZmzOZGOGZz9RHx20"
+      "uri": "spotify:track:6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "album": {
@@ -92,95 +158,95 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-            "id": "4YRxDV8wJFPHPTeXepOstw",
-            "name": "Arijit Singh",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+              "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
             },
-            "href": "https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB",
-            "id": "19LIHDDSHBD5NyYHI3gpzB",
-            "name": "Shilpa Rao",
+            "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
             "type": "artist",
-            "uri": "spotify:artist:19LIHDDSHBD5NyYHI3gpzB"
+            "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
+          "spotify": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
         },
-        "href": "https://api.spotify.com/v1/albums/1FU97iwW5a0nV7wq3Mk5DQ",
-        "id": "1FU97iwW5a0nV7wq3Mk5DQ",
+        "href": "https://api.spotify.com/v1/albums/5mUdh6YWnUvf0MfklEk1oi",
+        "id": "5mUdh6YWnUvf0MfklEk1oi",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273281650a8e8c5d04658d31ac1",
+            "url": "https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02281650a8e8c5d04658d31ac1",
+            "url": "https://i.scdn.co/image/ab67616d00001e022babb9dbd8f5146112f1bf86",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851281650a8e8c5d04658d31ac1",
+            "url": "https://i.scdn.co/image/ab67616d000048512babb9dbd8f5146112f1bf86",
             "width": 64
           }
         ],
-        "name": "Ghungroo (From \"War\")",
-        "release_date": "2019-09-05",
+        "name": "Stuck with U",
+        "release_date": "2020-05-08",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:1FU97iwW5a0nV7wq3Mk5DQ"
+        "uri": "spotify:album:5mUdh6YWnUvf0MfklEk1oi"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+            "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
           },
-          "href": "https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB",
-          "id": "19LIHDDSHBD5NyYHI3gpzB",
-          "name": "Shilpa Rao",
+          "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
           "type": "artist",
-          "uri": "spotify:artist:19LIHDDSHBD5NyYHI3gpzB"
+          "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 302935,
+      "duration_ms": 228482,
       "explicit": false,
       "external_ids": {
-        "isrc": "INY091900011"
+        "isrc": "USUM72009644"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
+        "spotify": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
       },
-      "href": "https://api.spotify.com/v1/tracks/0WdbnNKO0Jt4BZACSDQh44",
-      "id": "0WdbnNKO0Jt4BZACSDQh44",
+      "href": "https://api.spotify.com/v1/tracks/4HBZA5flZLE435QTztThqH",
+      "id": "4HBZA5flZLE435QTztThqH",
       "is_local": false,
       "is_playable": true,
-      "name": "Ghungroo (From \"War\")",
-      "popularity": 71,
-      "preview_url": "https://p.scdn.co/mp3-preview/104f294da4d8b1389e6afc9b1e8e24d14eff6841?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "Stuck with U (with Justin Bieber)",
+      "popularity": 86,
+      "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:0WdbnNKO0Jt4BZACSDQh44"
+      "uri": "spotify:track:4HBZA5flZLE435QTztThqH"
     },
     {
       "album": {
@@ -188,171 +254,151 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+          "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
         },
-        "href": "https://api.spotify.com/v1/albums/6IXfWhC7omotM4lt0ROmEr",
-        "id": "6IXfWhC7omotM4lt0ROmEr",
+        "href": "https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw",
+        "id": "2fYhqwDWXjbpjaIJPEfKFw",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273095191f6b96fd9eff585befc",
+            "url": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02095191f6b96fd9eff585befc",
+            "url": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851095191f6b96fd9eff585befc",
+            "url": "https://i.scdn.co/image/ab67616d0000485156ac7b86e090f307e218e9c8",
             "width": 64
           }
         ],
-        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-        "release_date": "2020-02-14",
+        "name": "thank u, next",
+        "release_date": "2019-02-08",
         "release_date_precision": "day",
-        "total_tracks": 11,
+        "total_tracks": 12,
         "type": "album",
-        "uri": "spotify:album:6IXfWhC7omotM4lt0ROmEr"
+        "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 247941,
-      "explicit": false,
+      "duration_ms": 178626,
+      "explicit": true,
       "external_ids": {
-        "isrc": "INS172000162"
+        "isrc": "USUM71900110"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
+        "spotify": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
       },
-      "href": "https://api.spotify.com/v1/tracks/1smFN2CLqGROu0J0UyvDfL",
-      "id": "1smFN2CLqGROu0J0UyvDfL",
+      "href": "https://api.spotify.com/v1/tracks/6ocbgoVGwYJhOv1GgI9NsF",
+      "id": "6ocbgoVGwYJhOv1GgI9NsF",
       "is_local": false,
       "is_playable": true,
-      "name": "Shayad",
-      "popularity": 70,
-      "preview_url": "https://p.scdn.co/mp3-preview/c68ce2c951b0f3454323d4df65c92398bf8bb496?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
+      "name": "7 rings",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 10,
       "type": "track",
-      "uri": "spotify:track:1smFN2CLqGROu0J0UyvDfL"
+      "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
       "album": {
-        "album_type": "compilation",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-            "id": "4YRxDV8wJFPHPTeXepOstw",
-            "name": "Arijit Singh",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T"
+          "spotify": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
         },
-        "href": "https://api.spotify.com/v1/albums/5Wm1nhxZqx7i0Hp6ZBqe9T",
-        "id": "5Wm1nhxZqx7i0Hp6ZBqe9T",
+        "href": "https://api.spotify.com/v1/albums/3euz4vS7ezKGnNSwgyvKcd",
+        "id": "3euz4vS7ezKGnNSwgyvKcd",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737569cbe3695608074d9fd389",
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027569cbe3695608074d9fd389",
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517569cbe3695608074d9fd389",
+            "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
             "width": 64
           }
         ],
-        "name": "Love Forever With Arijit Singh",
-        "release_date": "2017-06-07",
+        "name": "Positions",
+        "release_date": "2020-10-30",
         "release_date_precision": "day",
-        "total_tracks": 20,
+        "total_tracks": 14,
         "type": "album",
-        "uri": "spotify:album:5Wm1nhxZqx7i0Hp6ZBqe9T"
+        "uri": "spotify:album:3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/3gBKY0y3dFFVRqicLnVZYz",
-          "id": "3gBKY0y3dFFVRqicLnVZYz",
-          "name": "Alka Yagnik",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 341054,
+      "duration_ms": 201882,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS181501796"
+        "isrc": "USUM72020441"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
+        "spotify": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
       },
-      "href": "https://api.spotify.com/v1/tracks/2FCXQHugkoHE1K3tiDu8pu",
-      "id": "2FCXQHugkoHE1K3tiDu8pu",
+      "href": "https://api.spotify.com/v1/tracks/3UoULw70kMsiVXxW0L3A33",
+      "id": "3UoULw70kMsiVXxW0L3A33",
       "is_local": false,
       "is_playable": true,
-      "name": "Agar Tum Saath Ho (From \"Tamasha\")",
-      "popularity": 62,
-      "preview_url": "https://p.scdn.co/mp3-preview/017b836fa0c7983b7d5749a2c0802a33843244a7?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "pov",
+      "popularity": 85,
+      "preview_url": null,
       "track_number": 14,
       "type": "track",
-      "uri": "spotify:track:2FCXQHugkoHE1K3tiDu8pu"
+      "uri": "spotify:track:3UoULw70kMsiVXxW0L3A33"
     },
     {
       "album": {
@@ -360,115 +406,95 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
-            "id": "3dN9MQpjIyNxyeRfz4EDZe",
-            "name": "Rochak Kohli",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-            },
-            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-            "id": "4YRxDV8wJFPHPTeXepOstw",
-            "name": "Arijit Singh",
-            "type": "artist",
-            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-            },
-            "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
-            "id": "5f4QpKfy7ptCHwTqspnSJI",
-            "name": "Neha Kakkar",
-            "type": "artist",
-            "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM"
+          "spotify": "https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9"
         },
-        "href": "https://api.spotify.com/v1/albums/7aJiY5GW8uSpZItQXcmeVM",
-        "id": "7aJiY5GW8uSpZItQXcmeVM",
+        "href": "https://api.spotify.com/v1/albums/11X2d5C6rFBFZZUOCJLPt9",
+        "id": "11X2d5C6rFBFZZUOCJLPt9",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739c48ffd6b1a9a43b9a74c66c",
+            "url": "https://i.scdn.co/image/ab67616d0000b27343d04ae192008a5113862faf",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029c48ffd6b1a9a43b9a74c66c",
+            "url": "https://i.scdn.co/image/ab67616d00001e0243d04ae192008a5113862faf",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519c48ffd6b1a9a43b9a74c66c",
+            "url": "https://i.scdn.co/image/ab67616d0000485143d04ae192008a5113862faf",
             "width": 64
           }
         ],
-        "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
-        "release_date": "2019-12-02",
+        "name": "34+35 (Remix)",
+        "release_date": "2021-01-15",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:7aJiY5GW8uSpZItQXcmeVM"
+        "uri": "spotify:album:11X2d5C6rFBFZZUOCJLPt9"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
-          "id": "3dN9MQpjIyNxyeRfz4EDZe",
-          "name": "Rochak Kohli",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+            "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
           },
-          "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
-          "id": "5f4QpKfy7ptCHwTqspnSJI",
-          "name": "Neha Kakkar",
+          "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+          "id": "181bsRPaVXVlUKXrxwZfHK",
+          "name": "Megan Thee Stallion",
           "type": "artist",
-          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
+          "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 200991,
-      "explicit": false,
+      "duration_ms": 182437,
+      "explicit": true,
       "external_ids": {
-        "isrc": "INS181905683"
+        "isrc": "USUM72024483"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp"
+        "spotify": "https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR"
       },
-      "href": "https://api.spotify.com/v1/tracks/57jOEZtoLQK4zF2x55bdkp",
-      "id": "57jOEZtoLQK4zF2x55bdkp",
+      "href": "https://api.spotify.com/v1/tracks/3jjBPF4NDMCU51psU8JPpR",
+      "id": "3jjBPF4NDMCU51psU8JPpR",
       "is_local": false,
       "is_playable": true,
-      "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
-      "popularity": 69,
-      "preview_url": "https://p.scdn.co/mp3-preview/85b159f8c363670371202cc6a8122e8117d8d1c8?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",
+      "popularity": 84,
+      "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:57jOEZtoLQK4zF2x55bdkp"
+      "uri": "spotify:track:3jjBPF4NDMCU51psU8JPpR"
     },
     {
       "album": {
@@ -476,95 +502,75 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-            "id": "4YRxDV8wJFPHPTeXepOstw",
-            "name": "Arijit Singh",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-            },
-            "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
-            "id": "09UmIX92EUH9hAK4bxvHx6",
-            "name": "Mithoon",
-            "type": "artist",
-            "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
+          "spotify": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
         },
-        "href": "https://api.spotify.com/v1/albums/3I8PdIhk6pNm8Kv0HiF14V",
-        "id": "3I8PdIhk6pNm8Kv0HiF14V",
+        "href": "https://api.spotify.com/v1/albums/27MNgBEnLCKoafz1g2Zu97",
+        "id": "27MNgBEnLCKoafz1g2Zu97",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ba03ff79dad25f7c3542382f",
+            "url": "https://i.scdn.co/image/ab67616d0000b273fb704b7e832b40f08c14629c",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ba03ff79dad25f7c3542382f",
+            "url": "https://i.scdn.co/image/ab67616d00001e02fb704b7e832b40f08c14629c",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ba03ff79dad25f7c3542382f",
+            "url": "https://i.scdn.co/image/ab67616d00004851fb704b7e832b40f08c14629c",
             "width": 64
           }
         ],
-        "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
-        "release_date": "2019-05-31",
+        "name": "Santa Tell Me",
+        "release_date": "2014-11-24",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:3I8PdIhk6pNm8Kv0HiF14V"
+        "uri": "spotify:album:27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-          },
-          "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
-          "id": "09UmIX92EUH9hAK4bxvHx6",
-          "name": "Mithoon",
-          "type": "artist",
-          "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 284779,
+      "duration_ms": 204093,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS181902088"
+        "isrc": "USUM71417401"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
+        "spotify": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
       },
-      "href": "https://api.spotify.com/v1/tracks/2Fv2injs4qAm8mJBGaxVKU",
-      "id": "2Fv2injs4qAm8mJBGaxVKU",
+      "href": "https://api.spotify.com/v1/tracks/0lizgQ7Qw35od7CYaoMBZb",
+      "id": "0lizgQ7Qw35od7CYaoMBZb",
       "is_local": false,
       "is_playable": true,
-      "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
-      "popularity": 68,
-      "preview_url": "https://p.scdn.co/mp3-preview/e5dbd98555a85f8704f861dfcf122333f183f562?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "Santa Tell Me",
+      "popularity": 84,
+      "preview_url": null,
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:2Fv2injs4qAm8mJBGaxVKU"
+      "uri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "album": {
@@ -572,85 +578,75 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv"
+          "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
         },
-        "href": "https://api.spotify.com/v1/albums/6FoLUhYlbncGfVYckWTqLv",
-        "id": "6FoLUhYlbncGfVYckWTqLv",
+        "href": "https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw",
+        "id": "2fYhqwDWXjbpjaIJPEfKFw",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b67a843ee7de84208f3e4f28",
+            "url": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b67a843ee7de84208f3e4f28",
+            "url": "https://i.scdn.co/image/ab67616d00001e0256ac7b86e090f307e218e9c8",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b67a843ee7de84208f3e4f28",
+            "url": "https://i.scdn.co/image/ab67616d0000485156ac7b86e090f307e218e9c8",
             "width": 64
           }
         ],
-        "name": "Ludo",
-        "release_date": "2020-11-13",
+        "name": "thank u, next",
+        "release_date": "2019-02-08",
         "release_date_precision": "day",
-        "total_tracks": 7,
+        "total_tracks": 12,
         "type": "album",
-        "uri": "spotify:album:6FoLUhYlbncGfVYckWTqLv"
+        "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-          "id": "1wRPtKGflJrBx9BmLsSwlU",
-          "name": "Pritam",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 309103,
-      "explicit": false,
+      "duration_ms": 207320,
+      "explicit": true,
       "external_ids": {
-        "isrc": "INS182006633"
+        "isrc": "USUM71819361"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD"
+        "spotify": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
       },
-      "href": "https://api.spotify.com/v1/tracks/3jxNbVmugKWFFc3YAVl0sD",
-      "id": "3jxNbVmugKWFFc3YAVl0sD",
+      "href": "https://api.spotify.com/v1/tracks/3e9HZxeyfWwjeyPAMmWSSQ",
+      "id": "3e9HZxeyfWwjeyPAMmWSSQ",
       "is_local": false,
       "is_playable": true,
-      "name": "Aabaad Barbaad",
-      "popularity": 66,
-      "preview_url": "https://p.scdn.co/mp3-preview/2d30c8943b8bc4e85c8f5c9e7a8dafce2157fd1c?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
+      "name": "thank u, next",
+      "popularity": 83,
+      "preview_url": null,
+      "track_number": 11,
       "type": "track",
-      "uri": "spotify:track:3jxNbVmugKWFFc3YAVl0sD"
+      "uri": "spotify:track:3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "album": {
@@ -658,267 +654,161 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+              "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
             },
-            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
-            "id": "1wRPtKGflJrBx9BmLsSwlU",
-            "name": "Pritam",
+            "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
             "type": "artist",
-            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+            "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI"
+          "spotify": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
         },
-        "href": "https://api.spotify.com/v1/albums/63jrLuBlHcMN7MUbjbJ4LI",
-        "id": "63jrLuBlHcMN7MUbjbJ4LI",
+        "href": "https://api.spotify.com/v1/albums/05c49JgPmL4Uz2ZeqRx5SP",
+        "id": "05c49JgPmL4Uz2ZeqRx5SP",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27341775aba5e8dc068274257cc",
+            "url": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0241775aba5e8dc068274257cc",
+            "url": "https://i.scdn.co/image/ab67616d00001e026040effba89b9b00a6f6743a",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485141775aba5e8dc068274257cc",
+            "url": "https://i.scdn.co/image/ab67616d000048516040effba89b9b00a6f6743a",
             "width": 64
           }
         ],
-        "name": "Kalank",
-        "release_date": "2019-04-14",
+        "name": "Chromatica",
+        "release_date": "2020-05-29",
         "release_date_precision": "day",
-        "total_tracks": 10,
+        "total_tracks": 16,
         "type": "album",
-        "uri": "spotify:album:63jrLuBlHcMN7MUbjbJ4LI"
+        "uri": "spotify:album:05c49JgPmL4Uz2ZeqRx5SP"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "type": "artist",
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 311186,
+      "duration_ms": 182200,
       "explicit": false,
       "external_ids": {
-        "isrc": "INZ031405230"
+        "isrc": "USUM72004304"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5"
+        "spotify": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
       },
-      "href": "https://api.spotify.com/v1/tracks/6vo7Y1iWyZvpjvFbf6BiZ5",
-      "id": "6vo7Y1iWyZvpjvFbf6BiZ5",
+      "href": "https://api.spotify.com/v1/tracks/7ju97lgwC2rKQ6wwsf9no9",
+      "id": "7ju97lgwC2rKQ6wwsf9no9",
       "is_local": false,
       "is_playable": true,
-      "name": "Kalank (Title Track)",
-      "popularity": 68,
-      "preview_url": "https://p.scdn.co/mp3-preview/dffcc714a19475d8aa21f3e2fd2082e700932537?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 3,
+      "name": "Rain On Me (with Ariana Grande)",
+      "popularity": 79,
+      "preview_url": null,
+      "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:6vo7Y1iWyZvpjvFbf6BiZ5"
+      "uri": "spotify:track:7ju97lgwC2rKQ6wwsf9no9"
     },
     {
       "album": {
-        "album_type": "single",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+              "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
             },
-            "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
-            "id": "7HCqGPJcQTyGJ2yqntbuyr",
-            "name": "Amit Trivedi",
+            "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
             "type": "artist",
-            "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+            "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7lF34sP6HtRAL7VEMvYHff"
+          "spotify": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
         },
-        "href": "https://api.spotify.com/v1/albums/7lF34sP6HtRAL7VEMvYHff",
-        "id": "7lF34sP6HtRAL7VEMvYHff",
+        "href": "https://api.spotify.com/v1/albums/3tx8gQqWbGwqIGZHqDNrGe",
+        "id": "3tx8gQqWbGwqIGZHqDNrGe",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738c72151621d5c60ed768d010",
+            "url": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028c72151621d5c60ed768d010",
+            "url": "https://i.scdn.co/image/ab67616d00001e02c3af0c2355c24ed7023cd394",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518c72151621d5c60ed768d010",
+            "url": "https://i.scdn.co/image/ab67616d00004851c3af0c2355c24ed7023cd394",
             "width": 64
           }
         ],
-        "name": "Kedarnath",
-        "release_date": "2018-11-27",
+        "name": "Sweetener",
+        "release_date": "2018-08-17",
         "release_date_precision": "day",
-        "total_tracks": 5,
+        "total_tracks": 15,
         "type": "album",
-        "uri": "spotify:album:7lF34sP6HtRAL7VEMvYHff"
+        "uri": "spotify:album:3tx8gQqWbGwqIGZHqDNrGe"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
           },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
+          "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
           "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-          },
-          "href": "https://api.spotify.com/v1/artists/3tPQOjkxO3mrYrrgkTeXgH",
-          "id": "3tPQOjkxO3mrYrrgkTeXgH",
-          "name": "Nikhita Gandhi",
-          "type": "artist",
-          "uri": "spotify:artist:3tPQOjkxO3mrYrrgkTeXgH"
+          "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 341823,
-      "explicit": false,
+      "duration_ms": 197546,
+      "explicit": true,
       "external_ids": {
-        "isrc": "INZ031404413"
+        "isrc": "USUM71808574"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0xkGTPTijMU84dtHr3KQQi"
+        "spotify": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
       },
-      "href": "https://api.spotify.com/v1/tracks/0xkGTPTijMU84dtHr3KQQi",
-      "id": "0xkGTPTijMU84dtHr3KQQi",
+      "href": "https://api.spotify.com/v1/tracks/5OCJzvD7sykQEKHH7qAC3C",
+      "id": "5OCJzvD7sykQEKHH7qAC3C",
       "is_local": false,
       "is_playable": true,
-      "name": "Qaafirana",
-      "popularity": 66,
-      "preview_url": "https://p.scdn.co/mp3-preview/7036ba958534763f199c72ed65d24fc5b7eb5a6f?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 3,
+      "name": "God is a woman",
+      "popularity": 79,
+      "preview_url": null,
+      "track_number": 5,
       "type": "track",
-      "uri": "spotify:track:0xkGTPTijMU84dtHr3KQQi"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-            },
-            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-            "id": "4YRxDV8wJFPHPTeXepOstw",
-            "name": "Arijit Singh",
-            "type": "artist",
-            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-            },
-            "href": "https://api.spotify.com/v1/artists/1E6arsXf5Fgsnv9YpSzjpE",
-            "id": "1E6arsXf5Fgsnv9YpSzjpE",
-            "name": "Parampara Tandon",
-            "type": "artist",
-            "uri": "spotify:artist:1E6arsXf5Fgsnv9YpSzjpE"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-            },
-            "href": "https://api.spotify.com/v1/artists/1SyKki7JI1AZNKwgNMkn25",
-            "id": "1SyKki7JI1AZNKwgNMkn25",
-            "name": "Sachet-Parampara",
-            "type": "artist",
-            "uri": "spotify:artist:1SyKki7JI1AZNKwgNMkn25"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1"
-        },
-        "href": "https://api.spotify.com/v1/albums/0C9FXcECAeepJhmuvETNe1",
-        "id": "0C9FXcECAeepJhmuvETNe1",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c37f0437b5edc4e5eb77659d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c37f0437b5edc4e5eb77659d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c37f0437b5edc4e5eb77659d",
-            "width": 64
-          }
-        ],
-        "name": "Pal Pal Dil Ke Paas- Title Track (From \"Pal Pal Dil Ke Paas\")",
-        "release_date": "2019-08-27",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0C9FXcECAeepJhmuvETNe1"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-          },
-          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
-          "id": "4YRxDV8wJFPHPTeXepOstw",
-          "name": "Arijit Singh",
-          "type": "artist",
-          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-          },
-          "href": "https://api.spotify.com/v1/artists/1E6arsXf5Fgsnv9YpSzjpE",
-          "id": "1E6arsXf5Fgsnv9YpSzjpE",
-          "name": "Parampara Tandon",
-          "type": "artist",
-          "uri": "spotify:artist:1E6arsXf5Fgsnv9YpSzjpE"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 254516,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "INZ031406006"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7lGhrfren1Zpwh0ds0zuUg",
-      "id": "7lGhrfren1Zpwh0ds0zuUg",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Pal Pal Dil Ke Paas- Title Track",
-      "popularity": 66,
-      "preview_url": "https://p.scdn.co/mp3-preview/c3cbf6487800758bde40f1fb2dd1b6ad9e1cbc00?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:7lGhrfren1Zpwh0ds0zuUg"
+      "uri": "spotify:track:5OCJzvD7sykQEKHH7qAC3C"
     }
   ]
 }
