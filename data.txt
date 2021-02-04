@@ -2,119 +2,89 @@
   "tracks": [
     {
       "album": {
-        "album_type": "single",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
             },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
+            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+            "id": "1wRPtKGflJrBx9BmLsSwlU",
+            "name": "Pritam",
             "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-            },
-            "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
-            "id": "5f4QpKfy7ptCHwTqspnSJI",
-            "name": "Neha Kakkar",
-            "type": "artist",
-            "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
-            },
-            "href": "https://api.spotify.com/v1/artists/3pQ4aA7dkolyjUAMrVScgh",
-            "id": "3pQ4aA7dkolyjUAMrVScgh",
-            "name": "Manan Bhardwaj",
-            "type": "artist",
-            "uri": "spotify:artist:3pQ4aA7dkolyjUAMrVScgh"
+            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t"
+          "spotify": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
         },
-        "href": "https://api.spotify.com/v1/albums/77dwEKk1JI2JN9L5tg8d7t",
-        "id": "77dwEKk1JI2JN9L5tg8d7t",
+        "href": "https://api.spotify.com/v1/albums/2Svje8vKEM4VCKxoRyAvA4",
+        "id": "2Svje8vKEM4VCKxoRyAvA4",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d1dcdada40e51563cab2ff2a",
+            "url": "https://i.scdn.co/image/ab67616d0000b273eaa6b4bfb5954ee5a5a8ce9e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d1dcdada40e51563cab2ff2a",
+            "url": "https://i.scdn.co/image/ab67616d00001e02eaa6b4bfb5954ee5a5a8ce9e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d1dcdada40e51563cab2ff2a",
+            "url": "https://i.scdn.co/image/ab67616d00004851eaa6b4bfb5954ee5a5a8ce9e",
             "width": 64
           }
         ],
-        "name": "Teri Aankhon Mein",
-        "release_date": "2020-10-07",
+        "name": "Chhichhore",
+        "release_date": "2019-08-31",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 7,
         "type": "album",
-        "uri": "spotify:album:77dwEKk1JI2JN9L5tg8d7t"
+        "uri": "spotify:album:2Svje8vKEM4VCKxoRyAvA4"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
           },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
           "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
           },
-          "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
-          "id": "5f4QpKfy7ptCHwTqspnSJI",
-          "name": "Neha Kakkar",
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
           "type": "artist",
-          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
-          },
-          "href": "https://api.spotify.com/v1/artists/3pQ4aA7dkolyjUAMrVScgh",
-          "id": "3pQ4aA7dkolyjUAMrVScgh",
-          "name": "Manan Bhardwaj",
-          "type": "artist",
-          "uri": "spotify:artist:3pQ4aA7dkolyjUAMrVScgh"
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 261757,
+      "duration_ms": 280281,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS182006492"
+        "isrc": "INS181904666"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1"
+        "spotify": "https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20"
       },
-      "href": "https://api.spotify.com/v1/tracks/3wmI2n0Whs6kg4MT8jFRU1",
-      "id": "3wmI2n0Whs6kg4MT8jFRU1",
+      "href": "https://api.spotify.com/v1/tracks/5O932cZmzOZGOGZz9RHx20",
+      "id": "5O932cZmzOZGOGZz9RHx20",
       "is_local": false,
       "is_playable": true,
-      "name": "Teri Aankhon Mein",
-      "popularity": 70,
-      "preview_url": "https://p.scdn.co/mp3-preview/713310e5ccc0fe66feb1b565aeb834a377c2aeec?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
+      "name": "Khairiyat",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/675f140e389a20b604070b22ea03d1bfefa70200?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:3wmI2n0Whs6kg4MT8jFRU1"
+      "uri": "spotify:track:5O932cZmzOZGOGZz9RHx20"
     },
     {
       "album": {
@@ -122,95 +92,95 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
             },
-            "href": "https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1",
-            "id": "0T1CMVkqffHlqEk4BcAph1",
-            "name": "Tulsi Kumar",
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
             "type": "artist",
-            "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
           },
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+              "spotify": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
             },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
+            "href": "https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB",
+            "id": "19LIHDDSHBD5NyYHI3gpzB",
+            "name": "Shilpa Rao",
             "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+            "uri": "spotify:artist:19LIHDDSHBD5NyYHI3gpzB"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/28NpsSwjrzxoA4Tr7rH1aT"
+          "spotify": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
         },
-        "href": "https://api.spotify.com/v1/albums/28NpsSwjrzxoA4Tr7rH1aT",
-        "id": "28NpsSwjrzxoA4Tr7rH1aT",
+        "href": "https://api.spotify.com/v1/albums/1FU97iwW5a0nV7wq3Mk5DQ",
+        "id": "1FU97iwW5a0nV7wq3Mk5DQ",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738cff70163a8192d29b8a4f16",
+            "url": "https://i.scdn.co/image/ab67616d0000b273281650a8e8c5d04658d31ac1",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028cff70163a8192d29b8a4f16",
+            "url": "https://i.scdn.co/image/ab67616d00001e02281650a8e8c5d04658d31ac1",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518cff70163a8192d29b8a4f16",
+            "url": "https://i.scdn.co/image/ab67616d00004851281650a8e8c5d04658d31ac1",
             "width": 64
           }
         ],
-        "name": "Tere Naal",
-        "release_date": "2020-05-18",
+        "name": "Ghungroo (From \"War\")",
+        "release_date": "2019-09-05",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:28NpsSwjrzxoA4Tr7rH1aT"
+        "uri": "spotify:album:1FU97iwW5a0nV7wq3Mk5DQ"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
           },
-          "href": "https://api.spotify.com/v1/artists/0T1CMVkqffHlqEk4BcAph1",
-          "id": "0T1CMVkqffHlqEk4BcAph1",
-          "name": "Tulsi Kumar",
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
           "type": "artist",
-          "uri": "spotify:artist:0T1CMVkqffHlqEk4BcAph1"
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            "spotify": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
           },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
+          "href": "https://api.spotify.com/v1/artists/19LIHDDSHBD5NyYHI3gpzB",
+          "id": "19LIHDDSHBD5NyYHI3gpzB",
+          "name": "Shilpa Rao",
           "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+          "uri": "spotify:artist:19LIHDDSHBD5NyYHI3gpzB"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 198344,
+      "duration_ms": 302935,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS182000915"
+        "isrc": "INY091900011"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2Vw94w6FxCyaYwyCivi9Py"
+        "spotify": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
       },
-      "href": "https://api.spotify.com/v1/tracks/2Vw94w6FxCyaYwyCivi9Py",
-      "id": "2Vw94w6FxCyaYwyCivi9Py",
+      "href": "https://api.spotify.com/v1/tracks/0WdbnNKO0Jt4BZACSDQh44",
+      "id": "0WdbnNKO0Jt4BZACSDQh44",
       "is_local": false,
       "is_playable": true,
-      "name": "Tere Naal",
-      "popularity": 65,
-      "preview_url": "https://p.scdn.co/mp3-preview/dcb7410127350f053c74061642b6dd482bae1087?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "Ghungroo (From \"War\")",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/104f294da4d8b1389e6afc9b1e8e24d14eff6841?cid=cec8d043cd584ecd98dded91dd265188",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:2Vw94w6FxCyaYwyCivi9Py"
+      "uri": "spotify:track:0WdbnNKO0Jt4BZACSDQh44"
     },
     {
       "album": {
@@ -269,292 +239,120 @@
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
           },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
           "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
-          },
-          "href": "https://api.spotify.com/v1/artists/2UwDJeoMqYers5Jmm75zm2",
-          "id": "2UwDJeoMqYers5Jmm75zm2",
-          "name": "Antara Mitra",
-          "type": "artist",
-          "uri": "spotify:artist:2UwDJeoMqYers5Jmm75zm2"
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 249415,
+      "duration_ms": 247941,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS172000341"
+        "isrc": "INS172000162"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h"
+        "spotify": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
       },
-      "href": "https://api.spotify.com/v1/tracks/6cUOiOY5qh2FpIQWIYAd2h",
-      "id": "6cUOiOY5qh2FpIQWIYAd2h",
+      "href": "https://api.spotify.com/v1/tracks/1smFN2CLqGROu0J0UyvDfL",
+      "id": "1smFN2CLqGROu0J0UyvDfL",
       "is_local": false,
       "is_playable": true,
-      "name": "Mehrama",
-      "popularity": 65,
-      "preview_url": "https://p.scdn.co/mp3-preview/c8f5f6b5685b404b1e72121079ade3de187a22fa?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:6cUOiOY5qh2FpIQWIYAd2h"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-            },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
-            "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
-        },
-        "href": "https://api.spotify.com/v1/albums/7pFrr9ypVrxpZNF97YUQjK",
-        "id": "7pFrr9ypVrxpZNF97YUQjK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736597f07e711333210fa77b1c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026597f07e711333210fa77b1c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516597f07e711333210fa77b1c",
-            "width": 64
-          }
-        ],
-        "name": "Asal Mein",
-        "release_date": "2020-02-18",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:7pFrr9ypVrxpZNF97YUQjK"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-          },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
-          "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 224240,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "QM4TX2004181"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0rMeOAvbQZ2RTG4B6L1M4p",
-      "id": "0rMeOAvbQZ2RTG4B6L1M4p",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Asal Mein",
-      "popularity": 64,
-      "preview_url": "https://p.scdn.co/mp3-preview/0ae09aa00e6f95632c7b3adb334834f03a0ab4ab?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "Shayad",
+      "popularity": 70,
+      "preview_url": "https://p.scdn.co/mp3-preview/c68ce2c951b0f3454323d4df65c92398bf8bb496?cid=cec8d043cd584ecd98dded91dd265188",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:0rMeOAvbQZ2RTG4B6L1M4p"
+      "uri": "spotify:track:1smFN2CLqGROu0J0UyvDfL"
     },
     {
       "album": {
-        "album_type": "single",
+        "album_type": "compilation",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
             },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
             "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/1Da8Vav4NVoQfNX7HAR2zZ"
+          "spotify": "https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T"
         },
-        "href": "https://api.spotify.com/v1/albums/1Da8Vav4NVoQfNX7HAR2zZ",
-        "id": "1Da8Vav4NVoQfNX7HAR2zZ",
+        "href": "https://api.spotify.com/v1/albums/5Wm1nhxZqx7i0Hp6ZBqe9T",
+        "id": "5Wm1nhxZqx7i0Hp6ZBqe9T",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733ba439cbdaca41d0c4a77baf",
+            "url": "https://i.scdn.co/image/ab67616d0000b2737569cbe3695608074d9fd389",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023ba439cbdaca41d0c4a77baf",
+            "url": "https://i.scdn.co/image/ab67616d00001e027569cbe3695608074d9fd389",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513ba439cbdaca41d0c4a77baf",
+            "url": "https://i.scdn.co/image/ab67616d000048517569cbe3695608074d9fd389",
             "width": 64
           }
         ],
-        "name": "Ek Tarfa",
-        "release_date": "2020-07-16",
+        "name": "Love Forever With Arijit Singh",
+        "release_date": "2017-06-07",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 20,
         "type": "album",
-        "uri": "spotify:album:1Da8Vav4NVoQfNX7HAR2zZ"
+        "uri": "spotify:album:5Wm1nhxZqx7i0Hp6ZBqe9T"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            "spotify": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
           },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
+          "href": "https://api.spotify.com/v1/artists/3gBKY0y3dFFVRqicLnVZYz",
+          "id": "3gBKY0y3dFFVRqicLnVZYz",
+          "name": "Alka Yagnik",
           "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 234374,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "FRX202074554"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/64r6z0P3RnhpTGdkA7p5Os"
-      },
-      "href": "https://api.spotify.com/v1/tracks/64r6z0P3RnhpTGdkA7p5Os",
-      "id": "64r6z0P3RnhpTGdkA7p5Os",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Ek Tarfa",
-      "popularity": 64,
-      "preview_url": "https://p.scdn.co/mp3-preview/cb09f1f8ebfe924fe4391ac2deec67d92b4c23f6?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:64r6z0P3RnhpTGdkA7p5Os"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-            },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
-            "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-            },
-            "href": "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
-            "id": "1sVmXkzX2ukc6QvasrDBES",
-            "name": "Asees Kaur",
-            "type": "artist",
-            "uri": "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0FHtjFSg6H8PWhjzEuAyuV"
-        },
-        "href": "https://api.spotify.com/v1/albums/0FHtjFSg6H8PWhjzEuAyuV",
-        "id": "0FHtjFSg6H8PWhjzEuAyuV",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27339b291a8ca2bae7de76e0cc2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0239b291a8ca2bae7de76e0cc2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485139b291a8ca2bae7de76e0cc2",
-            "width": 64
-          }
-        ],
-        "name": "Saari Ki Saari 2.0",
-        "release_date": "2020-04-28",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0FHtjFSg6H8PWhjzEuAyuV"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-          },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
-          "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+          "uri": "spotify:artist:3gBKY0y3dFFVRqicLnVZYz"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
           },
-          "href": "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
-          "id": "1sVmXkzX2ukc6QvasrDBES",
-          "name": "Asees Kaur",
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
           "type": "artist",
-          "uri": "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
         }
       ],
       "disc_number": 1,
-      "duration_ms": 248221,
+      "duration_ms": 341054,
       "explicit": false,
       "external_ids": {
-        "isrc": "FR2X42089202"
+        "isrc": "INS181501796"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/34ppgPuSUgKIqUIBT26ulf"
+        "spotify": "https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu"
       },
-      "href": "https://api.spotify.com/v1/tracks/34ppgPuSUgKIqUIBT26ulf",
-      "id": "34ppgPuSUgKIqUIBT26ulf",
+      "href": "https://api.spotify.com/v1/tracks/2FCXQHugkoHE1K3tiDu8pu",
+      "id": "2FCXQHugkoHE1K3tiDu8pu",
       "is_local": false,
       "is_playable": true,
-      "name": "Saari Ki Saari 2.0",
+      "name": "Agar Tum Saath Ho (From \"Tamasha\")",
       "popularity": 62,
-      "preview_url": "https://p.scdn.co/mp3-preview/ede894f443185120b70e1ed836a1c19112427c7c?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
+      "preview_url": "https://p.scdn.co/mp3-preview/017b836fa0c7983b7d5749a2c0802a33843244a7?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 14,
       "type": "track",
-      "uri": "spotify:track:34ppgPuSUgKIqUIBT26ulf"
+      "uri": "spotify:track:2FCXQHugkoHE1K3tiDu8pu"
     },
     {
       "album": {
@@ -562,292 +360,84 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+              "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
             },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
+            "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+            "id": "3dN9MQpjIyNxyeRfz4EDZe",
+            "name": "Rochak Kohli",
             "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc"
-        },
-        "href": "https://api.spotify.com/v1/albums/5XurzQE6FZrn7fQPrX4Vcc",
-        "id": "5XurzQE6FZrn7fQPrX4Vcc",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273057c817a06a8155375294e1f",
-            "width": 640
+            "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
           },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02057c817a06a8155375294e1f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851057c817a06a8155375294e1f",
-            "width": 64
-          }
-        ],
-        "name": "Mujhe Peene Do",
-        "release_date": "2020-10-29",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:5XurzQE6FZrn7fQPrX4Vcc"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-          },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
-          "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 196071,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "FRS182091238"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3FbZoPzEaUBOD84l1FwFEH",
-      "id": "3FbZoPzEaUBOD84l1FwFEH",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Mujhe Peene Do",
-      "popularity": 60,
-      "preview_url": "https://p.scdn.co/mp3-preview/396d5a9209df5d2d5c502d71e3075bc54107d36c?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3FbZoPzEaUBOD84l1FwFEH"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
             },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
             "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb"
-        },
-        "href": "https://api.spotify.com/v1/albums/2khzKvw27vsWmb8xgnqxKb",
-        "id": "2khzKvw27vsWmb8xgnqxKb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b560693c17b20f01614c585c",
-            "width": 640
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
           },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b560693c17b20f01614c585c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b560693c17b20f01614c585c",
-            "width": 64
-          }
-        ],
-        "name": "Tera Zikr",
-        "release_date": "2017-11-09",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:2khzKvw27vsWmb8xgnqxKb"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-          },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
-          "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 208500,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "INS171703387"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0OfaueVeRebAfWsAHajj3z",
-      "id": "0OfaueVeRebAfWsAHajj3z",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Tera Zikr",
-      "popularity": 59,
-      "preview_url": "https://p.scdn.co/mp3-preview/27963bf85c8a34b10341718cd97ae0bbccb2e0aa?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0OfaueVeRebAfWsAHajj3z"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+              "spotify": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
             },
-            "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-            "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-            "name": "Darshan Raval",
+            "href": "https://api.spotify.com/v1/artists/5f4QpKfy7ptCHwTqspnSJI",
+            "id": "5f4QpKfy7ptCHwTqspnSJI",
+            "name": "Neha Kakkar",
             "type": "artist",
-            "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+            "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI"
           }
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/4DcFYtjt3WdLqZtBbCk3wa"
+          "spotify": "https://open.spotify.com/album/7aJiY5GW8uSpZItQXcmeVM"
         },
-        "href": "https://api.spotify.com/v1/albums/4DcFYtjt3WdLqZtBbCk3wa",
-        "id": "4DcFYtjt3WdLqZtBbCk3wa",
+        "href": "https://api.spotify.com/v1/albums/7aJiY5GW8uSpZItQXcmeVM",
+        "id": "7aJiY5GW8uSpZItQXcmeVM",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f1b800328fa62fcb0a17c34b",
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c48ffd6b1a9a43b9a74c66c",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f1b800328fa62fcb0a17c34b",
+            "url": "https://i.scdn.co/image/ab67616d00001e029c48ffd6b1a9a43b9a74c66c",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f1b800328fa62fcb0a17c34b",
+            "url": "https://i.scdn.co/image/ab67616d000048519c48ffd6b1a9a43b9a74c66c",
             "width": 64
           }
         ],
-        "name": "Bhula Dunga",
-        "release_date": "2020-03-24",
+        "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
+        "release_date": "2019-12-02",
         "release_date_precision": "day",
         "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:4DcFYtjt3WdLqZtBbCk3wa"
+        "uri": "spotify:album:7aJiY5GW8uSpZItQXcmeVM"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            "spotify": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
           },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
+          "href": "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+          "id": "3dN9MQpjIyNxyeRfz4EDZe",
+          "name": "Rochak Kohli",
           "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "disc_number": 1,
-      "duration_ms": 197600,
-      "explicit": false,
-      "external_ids": {
-        "isrc": "FRX452038314"
-      },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7pmY8QjqZP8GRV6qBRpheu"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7pmY8QjqZP8GRV6qBRpheu",
-      "id": "7pmY8QjqZP8GRV6qBRpheu",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Bhula Dunga",
-      "popularity": 59,
-      "preview_url": "https://p.scdn.co/mp3-preview/0691c833d0ade76d7520013779d3b571c2b1ea44?cid=cec8d043cd584ecd98dded91dd265188",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:7pmY8QjqZP8GRV6qBRpheu"
-    },
-    {
-      "album": {
-        "album_type": "single",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-            },
-            "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
-            "id": "1mBydYMVBECdDmMfE2sEUO",
-            "name": "Sachin-Jigar",
-            "type": "artist",
-            "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
-          }
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR"
-        },
-        "href": "https://api.spotify.com/v1/albums/55vXKnwnYYVesz6sz6pOSR",
-        "id": "55vXKnwnYYVesz6sz6pOSR",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f3cb46bfe75f909170f6b364",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f3cb46bfe75f909170f6b364",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f3cb46bfe75f909170f6b364",
-            "width": 64
-          }
-        ],
-        "name": "Odhani (From \"Made in China\")",
-        "release_date": "2019-09-24",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:55vXKnwnYYVesz6sz6pOSR"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-          },
-          "href": "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
-          "id": "1mBydYMVBECdDmMfE2sEUO",
-          "name": "Sachin-Jigar",
-          "type": "artist",
-          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+          "uri": "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
         },
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
           },
-          "href": "https://api.spotify.com/v1/artists/2GoeZ0qOTt6kjsWW4eA6LS",
-          "id": "2GoeZ0qOTt6kjsWW4eA6LS",
-          "name": "Darshan Raval",
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
           "type": "artist",
-          "uri": "spotify:artist:2GoeZ0qOTt6kjsWW4eA6LS"
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
         },
         {
           "external_urls": {
@@ -861,24 +451,474 @@
         }
       ],
       "disc_number": 1,
-      "duration_ms": 195397,
+      "duration_ms": 200991,
       "explicit": false,
       "external_ids": {
-        "isrc": "INS171903157"
+        "isrc": "INS181905683"
       },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD"
+        "spotify": "https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp"
       },
-      "href": "https://api.spotify.com/v1/tracks/2q0V50aNlI1RQXJyE5HDgD",
-      "id": "2q0V50aNlI1RQXJyE5HDgD",
+      "href": "https://api.spotify.com/v1/tracks/57jOEZtoLQK4zF2x55bdkp",
+      "id": "57jOEZtoLQK4zF2x55bdkp",
       "is_local": false,
       "is_playable": true,
-      "name": "Odhani (From \"Made in China\")",
-      "popularity": 59,
-      "preview_url": "https://p.scdn.co/mp3-preview/77f18d8f644f69a50f3526f45a516b77023376ef?cid=cec8d043cd584ecd98dded91dd265188",
+      "name": "Tu Hi Yaar Mera (From \"Pati Patni Aur Woh\")",
+      "popularity": 69,
+      "preview_url": "https://p.scdn.co/mp3-preview/85b159f8c363670371202cc6a8122e8117d8d1c8?cid=cec8d043cd584ecd98dded91dd265188",
       "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:2q0V50aNlI1RQXJyE5HDgD"
+      "uri": "spotify:track:57jOEZtoLQK4zF2x55bdkp"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
+            "type": "artist",
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+            },
+            "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+            "id": "09UmIX92EUH9hAK4bxvHx6",
+            "name": "Mithoon",
+            "type": "artist",
+            "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
+        },
+        "href": "https://api.spotify.com/v1/albums/3I8PdIhk6pNm8Kv0HiF14V",
+        "id": "3I8PdIhk6pNm8Kv0HiF14V",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ba03ff79dad25f7c3542382f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ba03ff79dad25f7c3542382f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ba03ff79dad25f7c3542382f",
+            "width": 64
+          }
+        ],
+        "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+        "release_date": "2019-05-31",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3I8PdIhk6pNm8Kv0HiF14V"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+          },
+          "href": "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+          "id": "09UmIX92EUH9hAK4bxvHx6",
+          "name": "Mithoon",
+          "type": "artist",
+          "uri": "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 284779,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS181902088"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2Fv2injs4qAm8mJBGaxVKU",
+      "id": "2Fv2injs4qAm8mJBGaxVKU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/e5dbd98555a85f8704f861dfcf122333f183f562?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2Fv2injs4qAm8mJBGaxVKU"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+            "id": "1wRPtKGflJrBx9BmLsSwlU",
+            "name": "Pritam",
+            "type": "artist",
+            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv"
+        },
+        "href": "https://api.spotify.com/v1/albums/6FoLUhYlbncGfVYckWTqLv",
+        "id": "6FoLUhYlbncGfVYckWTqLv",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b67a843ee7de84208f3e4f28",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b67a843ee7de84208f3e4f28",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b67a843ee7de84208f3e4f28",
+            "width": 64
+          }
+        ],
+        "name": "Ludo",
+        "release_date": "2020-11-13",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:6FoLUhYlbncGfVYckWTqLv"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          },
+          "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+          "id": "1wRPtKGflJrBx9BmLsSwlU",
+          "name": "Pritam",
+          "type": "artist",
+          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309103,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS182006633"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3jxNbVmugKWFFc3YAVl0sD",
+      "id": "3jxNbVmugKWFFc3YAVl0sD",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Aabaad Barbaad",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/2d30c8943b8bc4e85c8f5c9e7a8dafce2157fd1c?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3jxNbVmugKWFFc3YAVl0sD"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+            "id": "1wRPtKGflJrBx9BmLsSwlU",
+            "name": "Pritam",
+            "type": "artist",
+            "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI"
+        },
+        "href": "https://api.spotify.com/v1/albums/63jrLuBlHcMN7MUbjbJ4LI",
+        "id": "63jrLuBlHcMN7MUbjbJ4LI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27341775aba5e8dc068274257cc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0241775aba5e8dc068274257cc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485141775aba5e8dc068274257cc",
+            "width": 64
+          }
+        ],
+        "name": "Kalank",
+        "release_date": "2019-04-14",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:63jrLuBlHcMN7MUbjbJ4LI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 311186,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INZ031405230"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6vo7Y1iWyZvpjvFbf6BiZ5",
+      "id": "6vo7Y1iWyZvpjvFbf6BiZ5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kalank (Title Track)",
+      "popularity": 68,
+      "preview_url": "https://p.scdn.co/mp3-preview/dffcc714a19475d8aa21f3e2fd2082e700932537?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6vo7Y1iWyZvpjvFbf6BiZ5"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+            },
+            "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+            "id": "7HCqGPJcQTyGJ2yqntbuyr",
+            "name": "Amit Trivedi",
+            "type": "artist",
+            "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7lF34sP6HtRAL7VEMvYHff"
+        },
+        "href": "https://api.spotify.com/v1/albums/7lF34sP6HtRAL7VEMvYHff",
+        "id": "7lF34sP6HtRAL7VEMvYHff",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738c72151621d5c60ed768d010",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028c72151621d5c60ed768d010",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518c72151621d5c60ed768d010",
+            "width": 64
+          }
+        ],
+        "name": "Kedarnath",
+        "release_date": "2018-11-27",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:7lF34sP6HtRAL7VEMvYHff"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3tPQOjkxO3mrYrrgkTeXgH",
+          "id": "3tPQOjkxO3mrYrrgkTeXgH",
+          "name": "Nikhita Gandhi",
+          "type": "artist",
+          "uri": "spotify:artist:3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 341823,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INZ031404413"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0xkGTPTijMU84dtHr3KQQi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0xkGTPTijMU84dtHr3KQQi",
+      "id": "0xkGTPTijMU84dtHr3KQQi",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Qaafirana",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/7036ba958534763f199c72ed65d24fc5b7eb5a6f?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:0xkGTPTijMU84dtHr3KQQi"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
+            "type": "artist",
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1E6arsXf5Fgsnv9YpSzjpE",
+            "id": "1E6arsXf5Fgsnv9YpSzjpE",
+            "name": "Parampara Tandon",
+            "type": "artist",
+            "uri": "spotify:artist:1E6arsXf5Fgsnv9YpSzjpE"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+            },
+            "href": "https://api.spotify.com/v1/artists/1SyKki7JI1AZNKwgNMkn25",
+            "id": "1SyKki7JI1AZNKwgNMkn25",
+            "name": "Sachet-Parampara",
+            "type": "artist",
+            "uri": "spotify:artist:1SyKki7JI1AZNKwgNMkn25"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0C9FXcECAeepJhmuvETNe1"
+        },
+        "href": "https://api.spotify.com/v1/albums/0C9FXcECAeepJhmuvETNe1",
+        "id": "0C9FXcECAeepJhmuvETNe1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c37f0437b5edc4e5eb77659d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c37f0437b5edc4e5eb77659d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c37f0437b5edc4e5eb77659d",
+            "width": 64
+          }
+        ],
+        "name": "Pal Pal Dil Ke Paas- Title Track (From \"Pal Pal Dil Ke Paas\")",
+        "release_date": "2019-08-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0C9FXcECAeepJhmuvETNe1"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+          },
+          "href": "https://api.spotify.com/v1/artists/1E6arsXf5Fgsnv9YpSzjpE",
+          "id": "1E6arsXf5Fgsnv9YpSzjpE",
+          "name": "Parampara Tandon",
+          "type": "artist",
+          "uri": "spotify:artist:1E6arsXf5Fgsnv9YpSzjpE"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254516,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INZ031406006"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7lGhrfren1Zpwh0ds0zuUg",
+      "id": "7lGhrfren1Zpwh0ds0zuUg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Pal Pal Dil Ke Paas- Title Track",
+      "popularity": 66,
+      "preview_url": "https://p.scdn.co/mp3-preview/c3cbf6487800758bde40f1fb2dd1b6ad9e1cbc00?cid=cec8d043cd584ecd98dded91dd265188",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7lGhrfren1Zpwh0ds0zuUg"
     }
   ]
 }

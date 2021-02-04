@@ -12,7 +12,9 @@ def homepage():
     "66CXWjxzNUsdJxJ2JdwvnR",
     "1tqysapcCh1lWEAc9dIFpa",
     "2GoeZ0qOTt6kjsWW4eA6LS"]
-    rand = random.randint(0,len(artist))
+    
+    rand = random.randint(0,len(artist)-1)
+    
     AUTH_URL= 'https://accounts.spotify.com/api/token'
     load_dotenv(find_dotenv())
     auth_response = requests.post(AUTH_URL, {
@@ -23,7 +25,7 @@ def homepage():
 
     auth_response_data = auth_response.json()
     access_token = auth_response_data['access_token']
-    BASE_URL=	'	https://api.spotify.com/v1/artists/'+artist[rand]+'/top-tracks?market=US'
+    BASE_URL=	'https://api.spotify.com/v1/artists/'+artist[rand]+'/top-tracks?market=US'
     headers = {
     'Authorization': 'Bearer {token}'.format(token=access_token)
     }
@@ -32,14 +34,17 @@ def homepage():
     json_formatted_str = json.dumps(data, indent=2)
     f=open("data.txt",'w+')
     f.write(json_formatted_str)
-   #print(data)
-
+    
+    #data = (data['tracks'][rand]['artists'][0]['external_urls']['spotify'])
+    length = len(data['tracks'])
+    randArtist= random.randint(0,length-1)
+    data = data['tracks'][randArtist]['name']
     return render_template(
         "index.html",
-         length = len(data['tracks']),
+         #length = len(data['tracks']),
          artists = artist,
          randNum=rand,
-
+        data = data
         )
 app.run(
     port=int(os.getenv('PORT',8080)),
@@ -47,28 +52,3 @@ app.run(
     use_reloader = True,
     debug = True, #Autorun
     )
-'''
-import requests
-import os,json
-from dotenv import load_dotenv, find_dotenv
-AUTH_URL= 'https://accounts.spotify.com/api/token'
-load_dotenv(find_dotenv())
-auth_response = requests.post(AUTH_URL, {
-    'grant_type': 'client_credentials',
-    'client_id': os.getenv('CLIENT_ID'),
-    'client_secret': os.getenv('CLIENT_SECRET'),
-})
-
-auth_response_data = auth_response.json()
-access_token = auth_response_data['access_token']
-BASE_URL=	'https://api.spotify.com/v1/browse/new-releases'
-headers = {
-    'Authorization': 'Bearer {token}'.format(token=access_token)
-}
-data = requests.get(BASE_URL , headers=headers)
-data = data.json()
-json_formatted_str = json.dumps(data, indent=2)
-
-for i in range(0,10):
-    print(data['albums']['items'][i]['name'])
-'''
