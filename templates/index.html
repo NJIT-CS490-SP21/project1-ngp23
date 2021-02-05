@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html>
+<!-- Prints the title Page as well as connects to the app.py-->
 
 <head>
     <title>The Music directory</title>
-    <link rel="stylesheet" href="{{ url_for( 'static', filename='style.css' )}}" type="text/css" /> </head>
+    <link rel="stylesheet" href="{{ url_for( 'static', filename='style.css' )}}" type="text/css" />
+</head>
+<!--Prints out all the details about the song-->
 
 <body>
     <h1>Neel's top Fav artist song</h1>
-
     <p class=a>Song Name is : {{dataName}}</p>
     {%for i in artistName%}
     <p class=a>Artist Name is : {{i}}</p>
     {%endfor%}
     <img class=imageSize src={{imageUrl}}> {%if preview_url != None %}
-
+    <!--Audio control which gives user more fexilibity for the music control-->
     <p> <audio controls>
-      <source src="{{preview_url}}" type="audio/ogg">
       <source src="{{preview_url}}" type="audio/mpeg">
       Preview
     </audio> </p>{%else%}
     <p class=a>No Preview to show</p>
     {%endif%}
 </body>
-
-
 
 
 </html>
