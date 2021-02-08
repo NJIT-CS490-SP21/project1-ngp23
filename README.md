@@ -4,8 +4,11 @@
 ## Framework 
   - Frame work we used was flask
 ## languages we used for coding M1 Python, HTML and CSS
-## User will need to install all the require libraries in order for project to work
-## Libraries used for Milestone1
+## User will need to install all the require libraries in order for project to work using the code bellow
+  - pip install Flask
+  - pip install python-dotenv
+  - pip install requests
+## Libraries needed to import for Milestone1
   - Request
   - Flask
   - load_dotenv
@@ -18,7 +21,7 @@
  - Spotify API
  - you can get the Spotify key from https://developer.spotify.com/dashboard/login
 ## Secrect File
- - User will have to create an .env file in which they will add the two line of code listed bellow
+ - User will have to create an .env file in their project directory in which they will add the two line of code listed bellow
     - export CLIENT_ID='{your API key}'
     - export CLIENT_SECRET='{your API key}'
 ## what are at least 3 technical issues encountered with your prject? how did you fix them?
@@ -27,6 +30,6 @@
  ## what are known problem (Still existing), if any, with your project?
   - No problem's encounter at the current Mileston
  ## What would you do to improve you project in the future?
-  - Make the interface more user friendly as well as make it more presentable.
+  - Make the interface more user friendly as well as make it more presentable as well as make it more responsiefor the user friendlyness. 
  
  
