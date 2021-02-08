@@ -30,6 +30,6 @@
  ## what are known problem (Still existing), if any, with your project?
   - No problem's encounter at the current Mileston
  ## What would you do to improve you project in the future?
-  - Make the interface more user friendly as well as make it more presentable as well as make it more responsiefor the user friendlyness. 
+  - Make the interface more user friendly as well as make it more presentable as well as make it more responsiefor the user friendlyness. In order for me to make it more friendly and responsive I will make changes to the index.html file for the user input their favourite artist and their songs and I will make changes to the style.css to make more presentable.
  
  
