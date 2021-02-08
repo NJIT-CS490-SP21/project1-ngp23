@@ -3,7 +3,7 @@
   - We use the cloud 9 services on aws to priview and make updates on the file.
 ## Framework 
   - Frame work we used was flask
-## languages we used for coding M! Python, HTML and CSS
+## languages we used for coding M1 Python, HTML and CSS
 ## User will need to install all the require libraries in order for project to work
 ## Libraries used for Milestone1
   - Request
