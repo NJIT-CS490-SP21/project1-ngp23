@@ -16,10 +16,17 @@
   - render_template
 ## API used for M1
  - Spotify API
+ - you can get the Spotify key from https://developer.spotify.com/dashboard/login
 ## Secrect File
  - User will have to create an .env file in which they will add the two line of code listed bellow
     - export CLIENT_ID='{your API key}'
     - export CLIENT_SECRET='{your API key}'
-
+## what are at least 3 technical issues encountered with your prject? how did you fix them?
+ - The problem I encounter during the process was the CSS cache issue. I used the app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0 to fix the cache. Apart from that I have figure out other solution if the existing doesnt work it would be to got browser setting =>  go to clearing browsing data => Clear the cache image and file.
+ - Other problem I encounter during the process was JSON file format. To fix this issue I created a text file and add the JSON data in that text file which beautify the file.
+ ## what are known problem (Still existing), if any, with your project?
+  - No problem's encounter at the current Mileston
+ ## What would you do to improve you project in the future?
+  - Make the interface more user friendly as well as make it more presentable.
  
  
