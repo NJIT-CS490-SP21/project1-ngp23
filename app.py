@@ -1,5 +1,5 @@
 #imports all the needed packages to the environment 
-import os,random,requests,json
+import os,random,requests,json,lyricsgenius
 from flask import Flask,render_template
 from dotenv import load_dotenv, find_dotenv
 
@@ -9,7 +9,7 @@ app=Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
 #token function which gets the token.
-def token():
+def spotifyToken():
     #URL for token API
     AUTH_URL= 'https://accounts.spotify.com/api/token'
     #Loading the .env file
@@ -31,6 +31,8 @@ def token():
 @app.route('/')
 
 def myApp():
+    #Genius access token
+    genius=lyricsgenius.Genius(os.getenv("GENIUS_CLIENT_ACCESSTOKEN"))
     #Artists Spotify IDs
     artist=["4xRYI6VqpkE3UwrDrAZL8L",
     "6eUKZXaKkcviH0Ku9w2n3V",
@@ -41,7 +43,7 @@ def myApp():
     #generates random value between 0 to number of Artists
     rand = random.randint(0,len(artist)-1)
     #gets the token value from the token function.
-    access_token=token()
+    access_token=spotifyToken()
     
     #BASE URL to get the top tracks of random artist we pick from the list.
     BASE_URL=	'https://api.spotify.com/v1/artists/'+artist[rand]+'/top-tracks?market=US'
@@ -71,18 +73,24 @@ def myApp():
     imageUrl = data['tracks'][randArtist]['album']['images'][0]['url']
     #gets preview url
     preview_url= data['tracks'][randArtist]['preview_url']
-    
+    #genius artist search
+    Slyrics = genius.search_song(name,aName[0])
+    songLyrics=Slyrics.lyrics
+
     #sends the data to the HTML file.
+    
     return render_template(
         "index.html",
         dataName = name,
         artistName = aName,
         imageUrl = imageUrl,
-        preview_url=preview_url
+        preview_url=preview_url,
+        songLyrics=songLyrics
         )
 
  #runs the application with a serverwith the debugger and reload which occurs when
  #we make changes
+
 app.run(
     port=int(os.getenv('PORT',8080)),
     host=os.getenv('IP','0.0.0.0'),
