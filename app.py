@@ -50,21 +50,26 @@ def myApp():
     
     #BASE URL to get the top tracks of random artist we pick from the list.
     BASE_URL=	'https://api.spotify.com/v1/artists/'+artist[rand]+'/top-tracks?market=US'
+    base_url_artist = "https://api.spotify.com/v1/artists/"+ artist[rand]
     # We assign header to access the data from the spotify using API
     headers = {
     'Authorization': 'Bearer {token}'.format(token=access_token)
     }
     #makes a get request  using the base url and header infromation
     data = requests.get(BASE_URL, headers=headers)
+    dataArtist = requests.get(base_url_artist, headers=headers)
     #converts data to JSON file.
     data = data.json()
-   
+    dataArtist = dataArtist.json()
+    print(dataArtist)
     #json_formatted_str = json.dumps(data, indent=2)
     #get the number of top tracks for the artist.
     length = len(data['tracks'])
     #generates an random number between 0 to total track-1 to pick the 1 random song from the top tracks
     randArtist= random.randint(0,length-1)
     
+    #artist pic
+    artistPic = (dataArtist['images'][0]['url'])
     #gets the name of the song
     name = data['tracks'][randArtist]['name']
     #ceating the list for the artistname.
@@ -86,9 +91,7 @@ def myApp():
     response=requests.get(base_url,data=dataG,headers=headersG)
     
     response=response.json()
-    print(response)
     songLyrics=response['response']['hits'][0]['result']['url']
-    print(songLyrics)
     
     #sends the data to the HTML file.
     
@@ -98,7 +101,8 @@ def myApp():
         artistName = aName,
         imageUrl = imageUrl,
         preview_url=preview_url,
-        songLyrics=songLyrics
+        songLyrics=songLyrics,
+        artistPic=artistPic
         )
 
  #runs the application with a serverwith the debugger and reload which occurs when

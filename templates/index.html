@@ -10,10 +10,11 @@
 
 <body>
     <h1 class>Top Fav artist song</h1>
-    <p class=a>Song Name is : {{dataName}}</p>
+    <p class=a>{{dataName}}</p>
     {%for i in artistName%}
-    <p class=a>Artist Name is : {{i}}</p>
+    <p class=a>{{i}}</p>
     {%endfor%}
+    <p><img class=imageSize2 src={{artistPic}}></p>
     <img class=imageSize src={{imageUrl}}> {%if preview_url != None %}
     <!--Audio control which gives user more fexilibity for the music control-->
     <p> <audio controls>
@@ -22,7 +23,9 @@
     </audio> </p>{%else%}
     <p class=a>No Preview to show</p>
     {%endif%}
-    <a href="{{songLyrics}}"> Click on it to see the song lyrics</a>
+    <form action="{{songLyrics}}">
+        <button type=submit>Click me for lyrics</button>
+    </form>
 </body>
 
 
