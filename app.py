@@ -1,6 +1,5 @@
 #imports all the needed packages to the environment 
 import os,random,requests,json
-import lyricsgenius
 from flask import Flask,render_template
 from dotenv import load_dotenv, find_dotenv
 
@@ -33,8 +32,6 @@ def spotifyToken():
 
 def myApp():
     #Genius access token
-    
-    #genius=lyricsgenius.Genius(os.getenv("GENIUS_CLIENT_ACCESSTOKEN"))
     
     #Artists Spotify IDs
     artist=["4xRYI6VqpkE3UwrDrAZL8L",
@@ -82,16 +79,13 @@ def myApp():
     #gets preview url
     preview_url= data['tracks'][randArtist]['preview_url']
     #genius artist search
-    #Slyrics = genius.search_song(name,aName[0])
-    #songLyrics=Slyrics.lyrics
-    
+
     base_url='https://api.genius.com/search'
     headersG={'Authorization':'Bearer '+os.getenv("GENIUS_CLIENT_ACCESSTOKEN")}
     dataG = {'q':name+' '+aName[0]}
     response=requests.get(base_url,data=dataG,headers=headersG)
     response=response.json()
-    print(name)
-    print(aName)
+
     songLyrics=response['response']['hits'][0]['result']['url']
 
     #sends the data to the HTML file.

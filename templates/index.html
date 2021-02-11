@@ -9,12 +9,12 @@
 <!--Prints out all the details about the song-->
 
 <body>
-    <h1 class>Top Fav artist song</h1>
+    <h1>Top Fav artist song</h1>
     <p class=a>{{dataName}}</p>
     {%for i in artistName%}
     <p class=a>{{i}}</p>
     {%endfor%}
-    <p><img class=imageSize2 src={{artistPic}}></p>
+    <p><img class=imageSize2 src={{artistPic}} alt="Avatar"></p>
     <img class=imageSize src={{imageUrl}}> {%if preview_url != None %}
     <!--Audio control which gives user more fexilibity for the music control-->
     <p> <audio controls>
@@ -26,6 +26,7 @@
     <form action="{{songLyrics}}">
         <button type=submit>Click me for lyrics</button>
     </form>
+    <p></p>
 </body>
 
 

@@ -46,12 +46,19 @@
  }
 
  .imageSize {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
  }
 
  .imageSize2 {
   width: 100px;
   height: 100px;
+  border-radius: 50%;
+ }
+
+ button {
+  border-radius: 10px;
+  color: white;
+  background-color: black;
  }
  
