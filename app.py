@@ -40,7 +40,7 @@ def myApp():
     artist=["4xRYI6VqpkE3UwrDrAZL8L",
     "6eUKZXaKkcviH0Ku9w2n3V",
     "66CXWjxzNUsdJxJ2JdwvnR",
-    "1tqysapcCh1lWEAc9dIFpa",
+    "3TVXtAsR1Inumwj472S9r4",
     "2GoeZ0qOTt6kjsWW4eA6LS"]
     
     #generates random value between 0 to number of Artists
@@ -90,8 +90,10 @@ def myApp():
     dataG = {'q':name+' '+aName[0]}
     response=requests.get(base_url,data=dataG,headers=headersG)
     response=response.json()
+    print(name)
+    print(aName)
     songLyrics=response['response']['hits'][0]['result']['url']
-    
+
     #sends the data to the HTML file.
     
     return render_template(
