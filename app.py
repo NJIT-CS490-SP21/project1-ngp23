@@ -27,14 +27,14 @@ def spotifyToken():
     access_token = auth_response_data['access_token']
     #returns the access token
     return access_token
-    
+
 #python decorator to assigns URL in out app to function easily
 @app.route('/')
 
 def myApp():
     #Genius access token
     
-    genius=lyricsgenius.Genius(os.getenv("GENIUS_CLIENT_ACCESSTOKEN"))
+    #genius=lyricsgenius.Genius(os.getenv("GENIUS_CLIENT_ACCESSTOKEN"))
     
     #Artists Spotify IDs
     artist=["4xRYI6VqpkE3UwrDrAZL8L",
@@ -77,9 +77,19 @@ def myApp():
     #gets preview url
     preview_url= data['tracks'][randArtist]['preview_url']
     #genius artist search
-    Slyrics = genius.search_song(name,aName[0])
-    songLyrics=Slyrics.lyrics
-
+    #Slyrics = genius.search_song(name,aName[0])
+    #songLyrics=Slyrics.lyrics
+    
+    base_url='https://api.genius.com/search'
+    headersG={'Authorization':'Bearer '+os.getenv("GENIUS_CLIENT_ACCESSTOKEN")}
+    dataG = {'q':name+' '+aName[0]}
+    response=requests.get(base_url,data=dataG,headers=headersG)
+    
+    response=response.json()
+    print(response)
+    songLyrics=response['response']['hits'][0]['result']['url']
+    print(songLyrics)
+    
     #sends the data to the HTML file.
     
     return render_template(
