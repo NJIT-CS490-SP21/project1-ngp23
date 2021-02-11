@@ -61,7 +61,7 @@ def myApp():
     #converts data to JSON file.
     data = data.json()
     dataArtist = dataArtist.json()
-    print(dataArtist)
+   
     #json_formatted_str = json.dumps(data, indent=2)
     #get the number of top tracks for the artist.
     length = len(data['tracks'])
@@ -89,7 +89,6 @@ def myApp():
     headersG={'Authorization':'Bearer '+os.getenv("GENIUS_CLIENT_ACCESSTOKEN")}
     dataG = {'q':name+' '+aName[0]}
     response=requests.get(base_url,data=dataG,headers=headersG)
-    
     response=response.json()
     songLyrics=response['response']['hits'][0]['result']['url']
     
