@@ -87,7 +87,8 @@ def myApp():
     response=response.json()
 
     songLyrics=response['response']['hits'][0]['result']['url']
-
+    if(songLyrics == None):
+        songLyrics = "https://genius.com/"
     #sends the data to the HTML file.
     
     return render_template(
