@@ -22,10 +22,13 @@
       Preview
     </audio> </p>{%else%}
     <p class=a>No Preview to show</p>
-    {%endif%}
+    {%endif%} {%if songLyrics==None%} {
+    <p>Song lyrics not available</p>
+    }{%else%}
     <form action="{{songLyrics}}">
         <button type=submit>Click me for lyrics</button>
     </form>
+    {%endif%}
     <p></p>
 </body>
 
