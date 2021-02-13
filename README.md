@@ -3,7 +3,7 @@
   - We use the cloud 9 services on aws to priview and make updates on the file.
 ## Framework 
   - Frame work we used was flask
-## languages we used for coding M1 Python, HTML and CSS
+## languages we used for coding M1 and M2 Python, HTML and CSS
 ## User will need to install all the require libraries in order for project to work using the code bellow
   - pip install Flask
   - pip install python-dotenv
@@ -20,10 +20,15 @@
 ## API used for M1
  - Spotify API
  - you can get the Spotify key from https://developer.spotify.com/dashboard/login
+## API used for M2
+ - Spotify API used for M1.
+ - Genius API
+ - you can get the Genius key from https://genius.com/api-clients
 ## Secrect File
  - User will have to create an .env file in their project directory in which they will add the two line of code listed bellow
     - export CLIENT_ID='{your API key}'
     - export CLIENT_SECRET='{your API key}'
+    - export GENIUS_CLIENT_ACCESSTOKEN='{your Genius AccessToken}'
 ## what are at least 3 technical issues encountered with your prject? how did you fix them?
  - The problem I encounter during the process was the CSS cache issue. I used the app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0 to fix the cache. Apart from that I have figure out other solution if the existing doesnt work it would be to got browser setting =>  go to clearing browsing data => Clear the cache image and file.
  - Other problem I encounter during the process was JSON file format. To fix this issue I created a text file and add the JSON data in that text file which beautify the file.
