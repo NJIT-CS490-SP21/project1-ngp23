@@ -38,7 +38,7 @@ def myApp():
     "6eUKZXaKkcviH0Ku9w2n3V",
     "66CXWjxzNUsdJxJ2JdwvnR",
     "3TVXtAsR1Inumwj472S9r4",
-    "2GoeZ0qOTt6kjsWW4eA6LS"]
+    "7dGJo4pcD2V6oG8kP0tJRR"]
     
     #generates random value between 0 to number of Artists
     rand = random.randint(0,len(artist)-1)
@@ -87,7 +87,9 @@ def myApp():
     response=response.json()
 
     songLyrics=response['response']['hits'][0]['result']['url']
-    if(songLyrics == None):
+    
+    
+    if songLyrics[0]== '':
         songLyrics = "https://genius.com/"
     #sends the data to the HTML file.
     
