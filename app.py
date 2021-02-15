@@ -97,8 +97,6 @@ def myApp():
         aName =['Drake']
     if imageUrl == None:
         imageUrl="https://www.scdn.co/i/_global/open-graph-default.png"
-    if preview_url == None:
-        preview_url="https://www.scdn.co/i/_global/open-graph-default.png"
     if artistPic==None:
         artistPic="https://www.scdn.co/i/_global/open-graph-default.png"
         
