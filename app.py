@@ -62,6 +62,20 @@ def myApp():
     #json_formatted_str = json.dumps(data, indent=2)
     #get the number of top tracks for the artist.
     length = len(data['tracks'])
+    #if the length return null
+    if(length == None):
+        if songLyrics == None:
+            songLyrics = "https://genius.com/"
+        if name == None:
+            name = "One Dance"
+        if aName == None:
+            aName =['Drake']
+        if imageUrl == None:
+            imageUrl="https://www.scdn.co/i/_global/open-graph-default.png"
+        if artistPic==None:
+            artistPic="https://www.scdn.co/i/_global/open-graph-default.png"
+    
+    
     #generates an random number between 0 to total track-1 to pick the 1 random song from the top tracks
     randArtist= random.randint(0,length-1)
     
@@ -88,18 +102,7 @@ def myApp():
 
     songLyrics=response['response']['hits'][0]['result']['url']
     
-    
-    if songLyrics == None:
-        songLyrics = "https://genius.com/"
-    if name == None:
-        name = "One Dance"
-    if aName == None:
-        aName =['Drake']
-    if imageUrl == None:
-        imageUrl="https://www.scdn.co/i/_global/open-graph-default.png"
-    if artistPic==None:
-        artistPic="https://www.scdn.co/i/_global/open-graph-default.png"
-        
+            
     #sends the data to the HTML file.
     
     return render_template(
