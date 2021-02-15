@@ -89,8 +89,19 @@ def myApp():
     songLyrics=response['response']['hits'][0]['result']['url']
     
     
-    if songLyrics[0]== '':
+    if songLyrics == None:
         songLyrics = "https://genius.com/"
+    if name == None:
+        name = "One Dance"
+    if aName == None:
+        aName =['Drake']
+    if imageUrl == None:
+        imageUrl="https://www.scdn.co/i/_global/open-graph-default.png"
+    if preview_url == None:
+        preview_url="https://www.scdn.co/i/_global/open-graph-default.png"
+    if artistPic==None:
+        artistPic="https://www.scdn.co/i/_global/open-graph-default.png"
+        
     #sends the data to the HTML file.
     
     return render_template(
