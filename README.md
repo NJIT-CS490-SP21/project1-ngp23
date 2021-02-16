@@ -56,6 +56,7 @@
   - The know problem is genius not returning the excet data while using the API sometimes it returns the wrong lyrics because of the song name.
   - Sometimes Genius API gets corrupted so have to replace with the new key.
  ## What would you do to improve you project in the future?
-  - Make the interface more user friendly as well as make it more presentable as well as make it more responsiefor the user friendlyness. In order for me to make it more friendly and responsive I will make changes to the index.html file for the user input their favourite artist and their songs and I will make changes to the style.css to make more presentable.
+ - Make more user friendly by adding more features such as give user ability to add the artist to their favourite list or add the song to their spotify library.
+ - Make more user interactive by adding an search bar where user can search for their favourtie song and artist.
  
  
