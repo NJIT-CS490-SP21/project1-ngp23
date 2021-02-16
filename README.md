@@ -30,6 +30,9 @@
       - `export CLIENT_ID='{your API key}'`
       - `export CLIENT_SECRET='{your API key}'`
       - `export GENIUS_CLIENT_ACCESSTOKEN='{your Genius AccessToken}'`
+## How to run the APP on the computer
+ - cd into the directory
+ - run `python app.py`
 ## Deploy to Heroku
  - Create a free account on heroku https://singup.heroku.com/login
  - Create an text file in directory called requirements.txt
