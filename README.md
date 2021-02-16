@@ -33,6 +33,7 @@
 ## How to run the APP on the computer
  - cd into the directory
  - run `python app.py`
+ - then preview the page
 ## Deploy to Heroku
  - Create a free account on heroku https://singup.heroku.com/login
  - Create an text file in directory called requirements.txt
